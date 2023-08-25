@@ -1,0 +1,20 @@
+body{
+    background-color: lightgray;
+}
+
+.container{
+    background-color: white;
+    padding: 15px;
+}
+
+.section-menu{
+    padding: 15px;
+}
+
+.my-large-btn{
+    margin-bottom: 20px;
+}
+
+.grid-item img{
+    margin-bottom: 50px;
+}
